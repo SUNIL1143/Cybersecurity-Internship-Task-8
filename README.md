@@ -33,7 +33,7 @@ To verify the VPN connection, I took screenshots before and after connecting to 
 
 This screenshot shows my original IP address, assigned by my Internet Service Provider (Reliance Jio Infocomm).
 
-![Original IP Address](Original_IP.jpg)
+![Original IP Address](Original_IP.png)
 
 ### Screenshot 2 (VPN Connected)
 
